@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\b60fe88e08213794cd9e83f65d9156644ea85aa9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Claudia\Downloads\MenuQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41e95accbc76206899ba3f316f5da9b222f789bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\1ec282dfe558db51ff6c81bdc9b6d76d1a989995\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Claudia\Downloads\MenuQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e3322081d9ff78883043e0d12369988aca16da1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\490551fbceeda33d821ce67e30645dcc807c098e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Claudia\Downloads\MenuQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8973c36c91766a5b1e6736be4eb2d5a646a3ff0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\0e91b39e4c004f1f28c5079b938d1e3fc2ba749b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Claudia\Downloads\MenuQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cc15e2d070c1349a4f1d013c569777c0356bf69e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Claudia\Downloads\MenuQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_f81b22c9b001d4a256dcaf1389a2d3f15adbfe51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\73f7a766eeca5c2e7b2f06c1ee28f5ede1cecaaa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Claudia\Downloads\MenuQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_136572dafb9d697549ff046cf9e7a73d35c7858b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\e36f441f2fca09d9a9abe9c0e989204d0a68ce21\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Claudia\Downloads\MenuQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6359e94ffa2efbb5be03a5c0ea0697977649cacc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\Downloads\MenuQ\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Claudia\Downloads\MenuQ\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0cdf7a8605e31126b6db2c944258c0cc121ea1e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\04aa9bdb0a32ff4687cb56b7f0187fda69d808c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Claudia\Downloads\MenuQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40002efd023d5c004189a6adc5c6e1b62a1677d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\2b5e3aabc77c0ba06d2db3f78d493c76147a94a8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Claudia\Downloads\MenuQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_912ec5c5525335f3f929c8a2753fedd766d2e735\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\Claudia\Downloads\MenuQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha7_0359fe6547a01bf017d28f889e4ee7e810160c8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\a81e17dbed757e342229922a2211416e3acaf333\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\Claudia\Downloads\MenuQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c6c75817031ba6ede5745ebe8d9ed5f763b0f77b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\Downloads\MenuQ\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08733f8856851d0b0fa1b89a09bf4b9210ce00d5">
+        <dex dex="C:\Users\Claudia\Downloads\MenuQ\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b8a90a8517650204c309d739f406f39c9e85a93f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\ec7308f3aea8e9fcba93dc805b209d0c632f4fc3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Claudia\Downloads\MenuQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a905f763edc748bfbfe56d9dbc14dc1878ec4798\classes.dex" />
+    </item>
+
+</items>
